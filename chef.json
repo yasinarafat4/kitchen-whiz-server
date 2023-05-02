@@ -1,0 +1,272 @@
+[
+  {
+    "_id": "1",
+    "chef_picture": "https://i.ibb.co/pdnWBWy/chef-6.png",
+    "chef_name": "Chen Wei",
+    "years_of_experience": 15,
+    "num_of_recipes": 50,
+    "likes": 500,
+    "recipes": [
+      {
+        "recipe_name": "Kung Pao Chicken",
+        "ingredients": [
+          "chicken breast",
+          "dried chili",
+          "peanuts",
+          "soy sauce",
+          "sugar"
+        ],
+        "cooking_method": "1. Cut the chicken into small cubes and marinate them with soy sauce and cornstarch.\n2. Stir-fry the chicken in a wok until it turns golden brown.\n3. Add dried chili and peanuts and stir-fry for a minute.\n4. Add soy sauce, sugar, and a little bit of water to create a sauce.\n5. Serve with steamed rice.",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Mapo Tofu",
+        "ingredients": [
+          "firm tofu",
+          "ground pork",
+          "doubanjiang",
+          "garlic",
+          "green onion"
+        ],
+        "cooking_method": "1. Fry the garlic and green onion in a wok until fragrant.\n2. Add ground pork and stir-fry until it is cooked through.\n3. Add doubanjiang and fry until the oil turns red.\n4. Add the tofu and stir gently to avoid breaking it.\n5. Add a little bit of water and simmer for a few minutes.\n6. Serve with steamed rice.",
+        "rating": 4.3
+      },
+      {
+        "recipe_name": "Hot and Sour Soup",
+        "ingredients": [
+          "dried wood ear mushrooms",
+          "bamboo shoots",
+          "tofu",
+          "egg",
+          "white pepper"
+        ],
+        "cooking_method": "1. Soak the dried wood ear mushrooms in hot water for 10 minutes.\n2. Cut the bamboo shoots and tofu into small cubes.\n3. Beat the egg and set aside.\n4. Boil some water in a pot and add the wood ear mushrooms, bamboo shoots, and tofu.\n5. Season with white pepper, vinegar, and soy sauce.\n6. Drizzle the beaten egg into the soup and stir gently.\n7. Serve hot.",
+        "rating": 4.2
+      }
+    ]
+  },
+  {
+    "_id": "2",
+    "chef_picture": "https://i.ibb.co/q0g9yVs/chef-4.png",
+    "chef_name": "Wang Hong",
+    "years_of_experience": 8,
+    "num_of_recipes": 30,
+    "likes": 1500,
+    "recipes": [
+      {
+        "recipe_name": "Shanghai-style Fried Rice Cake",
+        "ingredients": ["rice cake", "bacon", "cabbage", "soy sauce", "sugar"],
+        "cooking_method": "1. Soak the rice cake in hot water until softened. \n2. Slice the bacon and cabbage. \n3. Stir-fry the bacon until golden brown. \n4. Add the cabbage and rice cake. \n5. Season with soy sauce and sugar to taste. \n6. Stir-fry until the rice cake is slightly crispy on the outside.",
+        "rating": 4.4
+      },
+      {
+        "recipe_name": "Sichuan-style Spicy Chicken",
+        "ingredients": [
+          "chicken thighs",
+          "potato starch",
+          "dried chili peppers",
+          "Sichuan peppercorns",
+          "ginger"
+        ],
+        "cooking_method": "1. Cut the chicken thighs into bite-sized pieces and coat with potato starch. \n2. In a separate pan, stir-fry the dried chili peppers and Sichuan peppercorns until fragrant. \n3. Add the chicken and ginger. \n4. Stir-fry until the chicken is cooked through. \n5. Season with soy sauce and sugar to taste.",
+        "rating": 4.2
+      },
+      {
+        "recipe_name": "Steamed Dumplings with Pork and Cabbage",
+        "ingredients": [
+          "ground pork",
+          "cabbage",
+          "dumpling wrappers",
+          "ginger",
+          "soy sauce"
+        ],
+        "cooking_method": "1. Mix the ground pork with chopped cabbage, ginger, and soy sauce. \n2. Spoon the mixture onto the dumpling wrappers and fold them into dumplings. \n3. Place the dumplings in a steamer basket and steam for 10-12 minutes. \n4. Serve with soy sauce and vinegar dipping sauce.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "_id": "3",
+    "chef_picture": "https://i.ibb.co/9n2GQH2/chef-5.png",
+    "chef_name": "Zhang Wei",
+    "years_of_experience": 10,
+    "num_of_recipes": 35,
+    "likes": 2000,
+    "recipes": [
+      {
+        "recipe_name": "Mapo Tofu",
+        "ingredients": [
+          "tofu",
+          "ground pork",
+          "doubanjiang",
+          "Sichuan peppercorns",
+          "garlic"
+        ],
+        "cooking_method": "1. Cut the tofu into small cubes. \n2. In a separate pan, stir-fry the ground pork, doubanjiang, and Sichuan peppercorns until fragrant. \n3. Add the garlic and tofu. \n4. Simmer for 5-7 minutes. \n5. Serve with rice.",
+        "rating": 4.6
+      },
+      {
+        "recipe_name": "Stir-fried Eggplant with Garlic Sauce",
+        "ingredients": [
+          "eggplant",
+          "garlic",
+          "soy sauce",
+          "sugar",
+          "cornstarch"
+        ],
+        "cooking_method": "1. Cut the eggplant into bite-sized pieces and soak in salt water for 10-15 minutes. \n2. In a separate pan, stir-fry the garlic until fragrant. \n3. Add the eggplant and stir-fry until cooked through. \n4. Season with soy sauce and sugar to taste. \n5. Add cornstarch to thicken the sauce. \n6. Serve with rice.",
+        "rating": 4.3
+      },
+      {
+        "recipe_name": "Gong Bao Shrimp",
+        "ingredients": [
+          "shrimp",
+          "dried red chili peppers",
+          "Sichuan peppercorns",
+          "peanuts",
+          "scallions"
+        ],
+        "cooking_method": "1. Clean and devein the shrimp. \n2. In a separate pan, stir-fry the dried red chili peppers and Sichuan peppercorns until fragrant. \n3. Add the shrimp and stir-fry until cooked through. \n4. Add the peanuts and scallions. \n5. Serve with rice.",
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "_id": "4",
+    "chef_picture": "https://i.ibb.co/9tJDLGn/chef-3.png",
+    "chef_name": "Li Sui Ju",
+    "years_of_experience": 12,
+    "num_of_recipes": 40,
+    "likes": 2200,
+    "recipes": [
+      {
+        "recipe_name": "Kung Pao Chicken",
+        "ingredients": [
+          "chicken breast",
+          "peanuts",
+          "dried red chili peppers",
+          "Sichuan peppercorns",
+          "scallions"
+        ],
+        "cooking_method": "1. Cut the chicken breast into small pieces and marinate in soy sauce and cornstarch. \n2. In a separate pan, stir-fry the peanuts until golden brown. \n3. Add the dried red chili peppers and Sichuan peppercorns and stir-fry until fragrant. \n4. Add the chicken and stir-fry until cooked through. \n5. Add scallions and stir-fry briefly. \n6. Serve with rice.",
+        "rating": 4.7
+      },
+      {
+        "recipe_name": "Hot and Sour Soup",
+        "ingredients": [
+          "tofu",
+          "dried shiitake mushrooms",
+          "bamboo shoots",
+          "soy sauce",
+          "vinegar"
+        ],
+        "cooking_method": "1. Soak the dried shiitake mushrooms in hot water until softened. \n2. Cut the tofu and bamboo shoots into small pieces. \n3. In a pot, bring water to a boil and add the mushrooms, tofu, and bamboo shoots. \n4. Season with soy sauce and vinegar to taste. \n5. Serve hot.",
+        "rating": 4.2
+      },
+      {
+        "recipe_name": "Jiaozi",
+        "ingredients": [
+          "ground pork",
+          "chives",
+          "wonton wrappers",
+          "soy sauce",
+          "sesame oil"
+        ],
+        "cooking_method": "1. Mix the ground pork, chives, soy sauce, and sesame oil in a bowl. \n2. Place a spoonful of the filling in the center of a wonton wrapper. \n3. Fold the wrapper in half and press the edges together to seal. \n4. In a pot, bring water to a boil and add the jiaozi. \n5. Simmer for 5-7 minutes. \n6. Serve hot with dipping sauce.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "_id": "5",
+    "chef_picture": "https://i.ibb.co/4RqNxxm/chef-2.png",
+    "chef_name": "Li Mei",
+    "years_of_experience": 12,
+    "num_of_recipes": 40,
+    "likes": 2200,
+    "recipes": [
+      {
+        "recipe_name": "Kung Pao Chicken",
+        "ingredients": [
+          "chicken breast",
+          "peanuts",
+          "dried red chili peppers",
+          "Sichuan peppercorns",
+          "scallions"
+        ],
+        "cooking_method": "1. Cut the chicken breast into small pieces and marinate in soy sauce and cornstarch. \n2. In a separate pan, stir-fry the peanuts until golden brown. \n3. Add the dried red chili peppers and Sichuan peppercorns and stir-fry until fragrant. \n4. Add the chicken and stir-fry until cooked through. \n5. Add scallions and stir-fry briefly. \n6. Serve with rice.",
+        "rating": 4.7
+      },
+      {
+        "recipe_name": "Hot and Sour Soup",
+        "ingredients": [
+          "tofu",
+          "dried shiitake mushrooms",
+          "bamboo shoots",
+          "soy sauce",
+          "vinegar"
+        ],
+        "cooking_method": "1. Soak the dried shiitake mushrooms in hot water until softened. \n2. Cut the tofu and bamboo shoots into small pieces. \n3. In a pot, bring water to a boil and add the mushrooms, tofu, and bamboo shoots. \n4. Season with soy sauce and vinegar to taste. \n5. Serve hot.",
+        "rating": 4.2
+      },
+      {
+        "recipe_name": "Shui Zhu Yu",
+        "ingredients": [
+          "fish fillets",
+          "dried red chili peppers",
+          "Sichuan peppercorns",
+          "ginger",
+          "garlic"
+        ],
+        "cooking_method": "1. Cut the fish fillets into small pieces. \n2. In a separate pot, bring water to a boil and add the fish. \n3. Season with dried red chili peppers, Sichuan peppercorns, ginger, and garlic. \n4. Simmer for 5-7 minutes. \n5. Serve hot.",
+        "rating": 4.2
+      }
+    ]
+  },
+  {
+    "_id": "6",
+    "chef_picture": "https://i.ibb.co/7VM0NKh/chef-1.png",
+    "chef_name": "Hung Min",
+    "years_of_experience": 12,
+    "num_of_recipes": 40,
+    "likes": 2200,
+    "recipes": [
+      {
+        "recipe_name": "Kung Pao Chicken",
+        "ingredients": [
+          "chicken breast",
+          "peanuts",
+          "dried red chili peppers",
+          "Sichuan peppercorns",
+          "scallions"
+        ],
+        "cooking_method": "1. Cut the chicken breast into small pieces and marinate in soy sauce and cornstarch. \n2. In a separate pan, stir-fry the peanuts until golden brown. \n3. Add the dried red chili peppers and Sichuan peppercorns and stir-fry until fragrant. \n4. Add the chicken and stir-fry until cooked through. \n5. Add scallions and stir-fry briefly. \n6. Serve with rice.",
+        "rating": 4.7
+      },
+      {
+        "recipe_name": "Hot and Sour Soup",
+        "ingredients": [
+          "tofu",
+          "dried shiitake mushrooms",
+          "bamboo shoots",
+          "soy sauce",
+          "vinegar"
+        ],
+        "cooking_method": "1. Soak the dried shiitake mushrooms in hot water until softened. \n2. Cut the tofu and bamboo shoots into small pieces. \n3. In a pot, bring water to a boil and add the mushrooms, tofu, and bamboo shoots. \n4. Season with soy sauce and vinegar to taste. \n5. Serve hot.",
+        "rating": 4.2
+      },
+      {
+        "recipe_name": "Stir-fried Vegetables with Oyster Sauce",
+        "ingredients": [
+          "bok choy",
+          "carrots",
+          "mushrooms",
+          "oyster sauce",
+          "garlic"
+        ],
+        "cooking_method": "1. Cut the bok choy and carrots into small pieces. \n2. Slice the mushrooms. \n3. In a pan, stir-fry the garlic until fragrant. \n4. Add the bok choy and carrots and stir-fry until almost cooked through. \n5. Add the mushrooms and oyster sauce. \n6. Stir-fry until everything is cooked through. \n7. Serve with rice.",
+        "rating": 4.0
+      }
+    ]
+  }
+]
