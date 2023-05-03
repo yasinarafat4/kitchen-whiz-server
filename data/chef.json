@@ -3,6 +3,7 @@
     "_id": "1",
     "chef_picture": "https://i.ibb.co/pdnWBWy/chef-6.png",
     "chef_name": "Chen Wei",
+    "description": "Chen Wei is a Chinese chef known for her Kung Pao Chicken. She is the head chef at Duddell's restaurant and has been awarded a Michelin Guide one-star rating.",
     "years_of_experience": 15,
     "num_of_recipes": 50,
     "likes": 500,
@@ -48,7 +49,8 @@
   {
     "_id": "2",
     "chef_picture": "https://i.ibb.co/q0g9yVs/chef-4.png",
-    "chef_name": "Wang Hong",
+    "chef_name": "Zhang Hongsheng",
+    "description": "Zhang Hongsheng is a Chinese chef specializing in Shanghai-style Fried Rice Cake. He is the head chef at Jin Gui restaurant and has been awarded a Michelin Guide one-star rating.",
     "years_of_experience": 8,
     "num_of_recipes": 30,
     "likes": 1500,
@@ -88,7 +90,8 @@
   {
     "_id": "3",
     "chef_picture": "https://i.ibb.co/9n2GQH2/chef-5.png",
-    "chef_name": "Zhang Wei",
+    "chef_name": "Chen Kenmin",
+    "description": "Chen Kenmin is a Chinese chef renowned for his Mapo Tofu. He is the founder and owner of Chen's Mapo Doufu restaurant and has won the title of Iron Chef Chinese.",
     "years_of_experience": 10,
     "num_of_recipes": 35,
     "likes": 2000,
@@ -134,7 +137,8 @@
   {
     "_id": "4",
     "chef_picture": "https://i.ibb.co/9tJDLGn/chef-3.png",
-    "chef_name": "Li Sui Ju",
+    "chef_name": "Yu Bo",
+    "description": "Yu Bo is a Chinese chef famous for his Kung Pao Chicken. She is the owner and head chef of Yu Bo Private Kitchen, which has received recognition from Asia's 50 Best Restaurants and Best Chef in China.",
     "years_of_experience": 12,
     "num_of_recipes": 40,
     "likes": 2200,
@@ -180,7 +184,8 @@
   {
     "_id": "5",
     "chef_picture": "https://i.ibb.co/4RqNxxm/chef-2.png",
-    "chef_name": "Li Mei",
+    "chef_name": "Dai Jianjun",
+    "description": "Dai Jianjun is a Chinese chef known for his expertise in Hot and Sour Soup. He is the head chef at Jinling Hotel and has been awarded titles such as National Master Chef and China Golden Chef.",
     "years_of_experience": 12,
     "num_of_recipes": 40,
     "likes": 2200,
@@ -227,10 +232,23 @@
     "_id": "6",
     "chef_picture": "https://i.ibb.co/7VM0NKh/chef-1.png",
     "chef_name": "Hung Min",
+    "description": "Hung Min is a Chinese chef specializing in Stir-fried Vegetables with Oyster Sauce. She is the head chef at Lao Sichuan restaurant and has won awards such as Best Chinese Restaurant and Chef of the Year.",
     "years_of_experience": 12,
     "num_of_recipes": 40,
     "likes": 2200,
     "recipes": [
+      {
+        "recipe_name": "Stir-fried Vegetables with Oyster Sauce",
+        "ingredients": [
+          "bok choy",
+          "carrots",
+          "mushrooms",
+          "oyster sauce",
+          "garlic"
+        ],
+        "cooking_method": "1. Cut the bok choy and carrots into small pieces. \n2. Slice the mushrooms. \n3. In a pan, stir-fry the garlic until fragrant. \n4. Add the bok choy and carrots and stir-fry until almost cooked through. \n5. Add the mushrooms and oyster sauce. \n6. Stir-fry until everything is cooked through. \n7. Serve with rice.",
+        "rating": 4.0
+      },
       {
         "recipe_name": "Kung Pao Chicken",
         "ingredients": [
@@ -254,18 +272,6 @@
         ],
         "cooking_method": "1. Soak the dried shiitake mushrooms in hot water until softened. \n2. Cut the tofu and bamboo shoots into small pieces. \n3. In a pot, bring water to a boil and add the mushrooms, tofu, and bamboo shoots. \n4. Season with soy sauce and vinegar to taste. \n5. Serve hot.",
         "rating": 4.2
-      },
-      {
-        "recipe_name": "Stir-fried Vegetables with Oyster Sauce",
-        "ingredients": [
-          "bok choy",
-          "carrots",
-          "mushrooms",
-          "oyster sauce",
-          "garlic"
-        ],
-        "cooking_method": "1. Cut the bok choy and carrots into small pieces. \n2. Slice the mushrooms. \n3. In a pan, stir-fry the garlic until fragrant. \n4. Add the bok choy and carrots and stir-fry until almost cooked through. \n5. Add the mushrooms and oyster sauce. \n6. Stir-fry until everything is cooked through. \n7. Serve with rice.",
-        "rating": 4.0
       }
     ]
   }
