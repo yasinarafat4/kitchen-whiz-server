@@ -7,8 +7,9 @@
     "years_of_experience": 15,
     "num_of_recipes": 50,
     "likes": 500,
-    "recipes": [
+    "chef_recipes": [
       {
+        "recipe_id": "a82ef8bc-9a47-4e81-94ec-dc5f4a45c5f1",
         "recipe_name": "Kung Pao Chicken",
         "ingredients": [
           "chicken breast",
@@ -21,6 +22,7 @@
         "rating": 4.5
       },
       {
+        "recipe_id": "cdd134c7-b73c-4b14-91bf-6aef758d91d0",
         "recipe_name": "Mapo Tofu",
         "ingredients": [
           "firm tofu",
@@ -33,6 +35,7 @@
         "rating": 4.3
       },
       {
+        "recipe_id": "eac8bc1d-d5b5-4e62-a75d-5275e1478a7c",
         "recipe_name": "Hot and Sour Soup",
         "ingredients": [
           "dried wood ear mushrooms",
@@ -54,14 +57,16 @@
     "years_of_experience": 8,
     "num_of_recipes": 30,
     "likes": 1500,
-    "recipes": [
+    "chef_recipes": [
       {
+        "recipe_id": "f4a6b0d8-3a1b-479c-8c0f-4c19e78d8223",
         "recipe_name": "Shanghai-style Fried Rice Cake",
         "ingredients": ["rice cake", "bacon", "cabbage", "soy sauce", "sugar"],
         "cooking_method": "1. Soak the rice cake in hot water until softened. \n2. Slice the bacon and cabbage. \n3. Stir-fry the bacon until golden brown. \n4. Add the cabbage and rice cake. \n5. Season with soy sauce and sugar to taste. \n6. Stir-fry until the rice cake is slightly crispy on the outside.",
         "rating": 4.4
       },
       {
+        "recipe_id": "b63df2fc-26f3-4583-8924-52a4e3b3a9f9",
         "recipe_name": "Sichuan-style Spicy Chicken",
         "ingredients": [
           "chicken thighs",
@@ -74,6 +79,7 @@
         "rating": 4.2
       },
       {
+        "recipe_id": "c4a5e1d6-3354-497d-a5fc-5f3bb5949d2b",
         "recipe_name": "Steamed Dumplings with Pork and Cabbage",
         "ingredients": [
           "ground pork",
@@ -95,8 +101,9 @@
     "years_of_experience": 10,
     "num_of_recipes": 35,
     "likes": 2000,
-    "recipes": [
+    "chef_recipes": [
       {
+        "recipe_id": "d4e3c32e-0b5d-45a6-9f9a-d2bf6b6d7a8b",
         "recipe_name": "Mapo Tofu",
         "ingredients": [
           "tofu",
@@ -109,6 +116,8 @@
         "rating": 4.6
       },
       {
+        "recipe_id": "a4d0eb9e-18e4-4fc7-950e-ec163c4ca1a1",
+
         "recipe_name": "Stir-fried Eggplant with Garlic Sauce",
         "ingredients": [
           "eggplant",
@@ -121,6 +130,7 @@
         "rating": 4.3
       },
       {
+        "recipe_id": "b33f2d88-6b05-468d-91a1-8d7d7f888449",
         "recipe_name": "Gong Bao Shrimp",
         "ingredients": [
           "shrimp",
@@ -142,8 +152,9 @@
     "years_of_experience": 12,
     "num_of_recipes": 40,
     "likes": 2200,
-    "recipes": [
+    "chef_recipes": [
       {
+        "recipe_id": "e5f844e8-85e3-47b9-bc54-84c756c7e062",
         "recipe_name": "Kung Pao Chicken",
         "ingredients": [
           "chicken breast",
@@ -156,6 +167,7 @@
         "rating": 4.7
       },
       {
+        "recipe_id": "f5b8c6d4-44d3-4b2f-9a10-cc83a7d4e6f9",
         "recipe_name": "Hot and Sour Soup",
         "ingredients": [
           "tofu",
@@ -168,6 +180,7 @@
         "rating": 4.2
       },
       {
+        "recipe_id": "c6d4f1e8-218a-4a2c-8163-33aa09f6b62f",
         "recipe_name": "Jiaozi",
         "ingredients": [
           "ground pork",
@@ -189,8 +202,9 @@
     "years_of_experience": 12,
     "num_of_recipes": 40,
     "likes": 2200,
-    "recipes": [
+    "chef_recipes": [
       {
+        "recipe_id": "b8e6d7a5-9908-4a83-8de2-7bc7d9d1ee11",
         "recipe_name": "Kung Pao Chicken",
         "ingredients": [
           "chicken breast",
@@ -203,6 +217,7 @@
         "rating": 4.7
       },
       {
+        "recipe_id": "a2c1f6e9-834f-4e48-8c6a-5a7797c71f5d",
         "recipe_name": "Hot and Sour Soup",
         "ingredients": [
           "tofu",
@@ -215,6 +230,7 @@
         "rating": 4.2
       },
       {
+        "recipe_id": "f1e7c9a5-7f2d-4dc4-8f5b-df34d87c6f6d",
         "recipe_name": "Shui Zhu Yu",
         "ingredients": [
           "fish fillets",
@@ -236,8 +252,9 @@
     "years_of_experience": 12,
     "num_of_recipes": 40,
     "likes": 2200,
-    "recipes": [
+    "chef_recipes": [
       {
+        "recipe_id": "e6d9a8c3-2f9b-48af-b2a7-3d1c457cf7c7",
         "recipe_name": "Stir-fried Vegetables with Oyster Sauce",
         "ingredients": [
           "bok choy",
@@ -250,6 +267,7 @@
         "rating": 4.0
       },
       {
+        "recipe_id": "d7a5c1e9-382f-4e57-9c86-f18a6b5c24b3",
         "recipe_name": "Kung Pao Chicken",
         "ingredients": [
           "chicken breast",
@@ -262,6 +280,7 @@
         "rating": 4.7
       },
       {
+        "recipe_id": "b6d3f8e1-091c-4f15-a9f4-11a2fb2a4ee6",
         "recipe_name": "Hot and Sour Soup",
         "ingredients": [
           "tofu",
